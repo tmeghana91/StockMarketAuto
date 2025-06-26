@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trading Automation Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/app.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=JetBrains+Mono&display=swap" rel="stylesheet">
+</head>
+<body>
+    <h2>Trading Automation Workflow</h2>
+
+    <div class="form-container" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+        <form method="post" action="{{ url_for('index') }}" style="display: flex; align-items: center; gap: 8px; margin: 0;">
+            <label for="auth_code">Auth Code:</label>
+            <input type="text" id="auth_code" name="auth_code" value="{{ auth_code_value }}" placeholder="Enter IIFL Auth Code">
+            <button type="submit">Run Workflow</button>
+        </form>
+        <form method="post" action="{{ url_for('clean_project') }}" style="margin: 0;">
+            <button type="submit" style="background-color: #c0392b;">Clean Project Files</button>
+        </form>
+    </div>
+
+    {% if feedback %}
+        <span id="feedback" class="{% if 'successful' in feedback or 'ready' in feedback %}success{% endif %}">{{ feedback }}</span>
+    {% endif %}
+
+    {% if show_report %}
+    {% include 'atr_report.html' %}
+    {% endif %}
+
+</body>
+</html> 

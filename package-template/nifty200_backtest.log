@@ -1,0 +1,50 @@
+2025-06-21 23:26:56,141 [WARNING] __main__: AUBANK: Error in backtest: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-21 23:26:56,425 [WARNING] __main__: BANKINDIA: Error in backtest: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-21 23:26:56,634 [WARNING] __main__: BEL: Error in backtest: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-21 23:26:56,847 [WARNING] __main__: CANBK: Error in backtest: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-21 23:26:57,067 [WARNING] __main__: DIVISLAB: Error in backtest: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-21 23:26:57,346 [WARNING] __main__: FEDERALBNK: Error in backtest: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-21 23:26:57,600 [WARNING] __main__: ICICIBANK: Error in backtest: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-21 23:26:57,601 [INFO] __main__: Backtest complete. Results saved to files/nifty200_backtest.json
+2025-06-22 07:45:02,006 [INFO] __main__: AUBANK: Entry 2023-01-02 at 655.10, Exit Ticker
+    2023-03-14 00:00:00
+Name: 297, dtype: object at 588.94 (Trailing stop hit), Return -10.10%
+2025-06-22 07:45:02,385 [INFO] __main__: BANKINDIA: Entry 2023-01-02 at 84.03, Exit Ticker
+    2023-01-23 00:00:00
+Name: 263, dtype: object at 80.45 (Trailing stop hit), Return -4.26%
+2025-06-22 07:45:02,736 [INFO] __main__: BEL: Entry 2023-01-02 at 97.00, Exit Ticker
+    2023-01-30 00:00:00
+Name: 267, dtype: object at 86.06 (Trailing stop hit), Return -11.27%
+2025-06-22 07:45:03,068 [INFO] __main__: CANBK: Entry 2023-01-02 at 60.78, Exit Ticker
+    2023-01-27 00:00:00
+Name: 266, dtype: object at 52.62 (Trailing stop hit), Return -13.43%
+2025-06-22 07:45:03,457 [INFO] __main__: DIVISLAB: Entry 2023-01-02 at 3325.23, Exit Ticker
+    2023-02-03 00:00:00
+Name: 271, dtype: object at 2843.79 (Trailing stop hit), Return -14.48%
+2025-06-22 07:45:03,855 [INFO] __main__: FEDERALBNK: Entry 2023-01-02 at 135.87, Exit Ticker
+    2023-02-20 00:00:00
+Name: 282, dtype: object at 124.32 (Trailing stop hit), Return -8.50%
+2025-06-22 07:45:04,345 [INFO] __main__: ICICIBANK: Entry 2023-01-02 at 887.44, Exit Ticker
+    2023-03-29 00:00:00
+Name: 308, dtype: object at 836.85 (Max holding period), Return -5.70%
+2025-06-22 07:45:04,440 [INFO] __main__: Backtest complete. Results saved to files/nifty200_backtest.json
+2025-06-22 07:51:48,467 [INFO] __main__: AUBANK: Entry 2023-01-02 at 655.10, Exit Ticker
+    2023-01-11 00:00:00
+Name: 255, dtype: object at 620.25 (ATR stop hit), Return -5.32%
+2025-06-22 07:51:48,753 [INFO] __main__: BANKINDIA: Entry 2023-01-02 at 84.03, Exit Ticker
+    2023-01-24 00:00:00
+Name: 264, dtype: object at 78.80 (ATR stop hit), Return -6.23%
+2025-06-22 07:51:49,013 [INFO] __main__: BEL: Entry 2023-01-02 at 97.00, Exit Ticker
+    2023-01-27 00:00:00
+Name: 266, dtype: object at 91.24 (ATR stop hit), Return -5.94%
+2025-06-22 07:51:49,282 [INFO] __main__: CANBK: Entry 2023-01-02 at 60.78, Exit Ticker
+    2023-01-25 00:00:00
+Name: 265, dtype: object at 55.34 (ATR stop hit), Return -8.95%
+2025-06-22 07:51:49,539 [INFO] __main__: DIVISLAB: Skipped, not above 200-day MA on entry date.
+2025-06-22 07:51:49,848 [INFO] __main__: FEDERALBNK: Entry 2023-01-02 at 135.87, Exit Ticker
+    2023-02-09 00:00:00
+Name: 275, dtype: object at 128.22 (ATR stop hit), Return -5.63%
+2025-06-22 07:51:50,127 [INFO] __main__: ICICIBANK: Entry 2023-01-02 at 887.44, Exit Ticker
+    2023-01-10 00:00:00
+Name: 254, dtype: object at 847.03 (ATR stop hit), Return -4.55%
+2025-06-22 07:51:50,128 [INFO] __main__: Backtest complete. Results saved to files/nifty200_backtest.json

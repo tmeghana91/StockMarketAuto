@@ -1,0 +1,616 @@
+2025-06-21 21:23:58,942 [INFO] __main__: ABB failed EPS growth: 0.033
+2025-06-21 21:23:59,168 [INFO] __main__: ACC failed EPS growth: -0.204
+2025-06-21 21:23:59,392 [INFO] __main__: APLAPOLLO failed Debt/Equity: 15.074
+2025-06-21 21:23:59,631 [INFO] __main__: AUBANK failed Debt/Equity: 1
+2025-06-21 21:23:59,883 [INFO] __main__: ADANIENSOL failed ROE: 0.05021
+2025-06-21 21:24:00,107 [INFO] __main__: ADANIENT failed Sales growth: -0.076
+2025-06-21 21:24:00,353 [INFO] __main__: ADANIGREEN failed ROE: 0.1
+2025-06-21 21:24:00,581 [INFO] __main__: ADANIPORTS failed Debt/Equity: 79.193
+2025-06-21 21:24:00,825 [INFO] __main__: ADANIPOWER failed EPS growth: -0.037
+2025-06-21 21:24:01,057 [INFO] __main__: ATGL failed EPS growth: -0.08
+2025-06-21 21:24:01,354 [INFO] __main__: ABCAPITAL failed EPS growth: -0.306
+2025-06-21 21:24:01,595 [INFO] __main__: ABFRL failed EPS growth: 0
+2025-06-21 21:24:01,832 [INFO] __main__: ABLBL failed EPS growth: 0
+2025-06-21 21:24:02,075 [INFO] __main__: ALKEM failed EPS growth: 0.042
+2025-06-21 21:24:02,315 [INFO] __main__: AMBUJACEM failed EPS growth: -0.091
+2025-06-21 21:24:02,623 [INFO] __main__: APOLLOHOSP failed Debt/Equity: 90.886
+2025-06-21 21:24:02,873 [INFO] __main__: APOLLOTYRE failed EPS growth: -0.479
+2025-06-21 21:24:03,108 [INFO] __main__: ASHOKLEY failed Debt/Equity: 315.321
+2025-06-21 21:24:03,366 [INFO] __main__: ASIANPAINT failed EPS growth: -0.449
+2025-06-21 21:24:04,290 [INFO] __main__: ASTRAL failed EPS growth: -0.013
+2025-06-21 21:24:04,630 [INFO] __main__: AUROPHARMA failed EPS growth: -0.006
+2025-06-21 21:24:04,873 [INFO] __main__: DMART failed EPS growth: -0.022
+2025-06-21 21:24:05,108 [INFO] __main__: AXISBANK failed EPS growth: -0.016
+2025-06-21 21:24:15,977 [INFO] __main__: BSE not near 52W high: Last close 2688.10009765625, 52W high 3005.39990234375
+2025-06-21 21:24:16,305 [INFO] __main__: BAJAJ-AUTO failed EPS growth: -0.104
+2025-06-21 21:24:16,537 [INFO] __main__: BAJFINANCE failed Debt/Equity: 292.998
+2025-06-21 21:24:16,791 [INFO] __main__: BAJAJFINSV failed Debt/Equity: 221.476
+2025-06-21 21:24:17,024 [INFO] __main__: BAJAJHLDNG failed EPS growth: -0.365
+2025-06-21 21:24:17,249 [INFO] __main__: BAJAJHFL failed Debt/Equity: 411.266
+2025-06-21 21:24:17,473 [INFO] __main__: BANDHANBNK failed ROE: 0.11881
+2025-06-21 21:24:17,713 [INFO] __main__: BANKBARODA failed EPS growth: 0.056
+2025-06-21 21:24:17,984 [INFO] __main__: BANKINDIA failed Debt/Equity: 1
+2025-06-21 21:24:18,214 [INFO] __main__: MAHABANK failed Debt/Equity: 1
+2025-06-21 21:24:18,452 [INFO] __main__: BDL failed EPS growth: -0.055
+2025-06-21 21:24:18,696 [INFO] __main__: BEL failed Sales growth: 0.068
+2025-06-21 21:24:18,922 [INFO] __main__: BHARATFORG failed Sales growth: -0.075
+2025-06-21 21:24:19,217 [INFO] __main__: BHEL failed EPS growth: -0.502
+2025-06-21 21:24:19,512 [INFO] __main__: BPCL failed EPS growth: -0.083
+2025-06-21 21:24:19,856 [INFO] __main__: BHARTIARTL failed Debt/Equity: 139.21
+2025-06-21 21:24:20,163 [INFO] __main__: BHARTIHEXA failed Debt/Equity: 123.949
+2025-06-21 21:24:20,400 [INFO] __main__: BIOCON failed ROE: 0.05395
+2025-06-21 21:24:20,649 [INFO] __main__: BOSCHLTD failed EPS growth: -0.019
+2025-06-21 21:24:20,880 [INFO] __main__: BRITANNIA failed EPS growth: 0.04
+2025-06-21 21:24:22,537 [INFO] __main__: CGPOWER failed Debt/Equity: 1.015
+2025-06-21 21:24:22,766 [INFO] __main__: CANBK failed Sales growth: 0.069
+2025-06-21 21:24:22,995 [INFO] __main__: CHOLAFIN failed Debt/Equity: 740.728
+2025-06-21 21:24:23,367 [INFO] __main__: CIPLA failed Debt/Equity: 1.404
+2025-06-21 21:24:23,675 [INFO] __main__: COALINDIA failed EPS growth: -0.292
+2025-06-21 21:24:23,927 [INFO] __main__: COCHINSHIP failed Debt/Equity: 10.044
+2025-06-21 21:24:24,155 [INFO] __main__: COFORGE failed Debt/Equity: 12.851
+2025-06-21 21:24:24,382 [INFO] __main__: COLPAL failed EPS growth: -0.065
+2025-06-21 21:24:24,671 [INFO] __main__: CONCOR failed EPS growth: -0.058
+2025-06-21 21:24:25,051 [INFO] __main__: CUMMINSIND failed EPS growth: -0.017
+2025-06-21 21:24:25,321 [INFO] __main__: DLF failed ROE: 0.106529996
+2025-06-21 21:24:25,605 [INFO] __main__: DABUR failed EPS growth: -0.084
+2025-06-21 21:24:26,196 [INFO] __main__: DIVISLAB marked as BUY
+2025-06-21 21:24:26,424 [INFO] __main__: DIXON failed Debt/Equity: 19.34
+2025-06-21 21:24:26,650 [INFO] __main__: DRREDDY failed Debt/Equity: 13.87
+2025-06-21 21:24:26,940 [INFO] __main__: EICHERMOT failed Debt/Equity: 2.151
+2025-06-21 21:24:27,181 [INFO] __main__: ESCORTS failed ROE: 0.11384
+2025-06-21 21:24:27,436 [INFO] __main__: ETERNAL failed EPS growth: -0.777
+2025-06-21 21:24:27,753 [INFO] __main__: EXIDEIND failed EPS growth: 0.012
+2025-06-21 21:24:28,009 [INFO] __main__: NYKAA failed ROE: 0.05494
+2025-06-21 21:24:28,265 [INFO] __main__: FEDERALBNK failed Debt/Equity: 1
+2025-06-21 21:24:28,516 [INFO] __main__: GAIL failed EPS growth: 0.009
+2025-06-21 21:24:28,774 [INFO] __main__: GMRAIRPORT failed EPS growth: 0
+2025-06-21 21:24:29,108 [INFO] __main__: GLENMARK failed EPS growth: 0
+2025-06-21 21:24:29,331 [INFO] __main__: GODREJCP failed EPS growth: 0
+2025-06-21 21:24:29,626 [INFO] __main__: GODREJPROP failed EPS growth: -0.189
+2025-06-21 21:24:29,865 [INFO] __main__: GRASIM failed EPS growth: 0.092
+2025-06-21 21:24:30,087 [INFO] __main__: HCLTECH failed EPS growth: 0.031
+2025-06-21 21:24:30,310 [INFO] __main__: HDFCAMC failed Debt/Equity: 1.766
+2025-06-21 21:24:30,661 [INFO] __main__: HDFCBANK failed EPS growth: 0.069
+2025-06-21 21:24:30,909 [INFO] __main__: HDFCLIFE failed Sales growth: -0.138
+2025-06-21 21:24:31,157 [INFO] __main__: HAVELLS failed Debt/Equity: 3.819
+2025-06-21 21:24:31,426 [INFO] __main__: HEROMOTOCO failed Sales growth: 0.037
+2025-06-21 21:24:31,751 [INFO] __main__: HINDALCO failed Debt/Equity: 53.056
+2025-06-21 21:24:31,995 [INFO] __main__: HAL failed EPS growth: -0.077
+2025-06-21 21:24:32,242 [INFO] __main__: HINDPETRO failed Sales growth: -0.044
+2025-06-21 21:24:32,480 [INFO] __main__: HINDUNILVR failed EPS growth: -0.037
+2025-06-21 21:24:32,787 [INFO] __main__: HINDZINC failed Debt/Equity: 86.568
+2025-06-21 21:24:33,028 [INFO] __main__: HUDCO failed EPS growth: 0.039
+2025-06-21 21:24:33,266 [INFO] __main__: HYUNDAI failed EPS growth: -0.037
+2025-06-21 21:24:33,503 [INFO] __main__: ICICIBANK failed Debt/Equity: 1
+2025-06-21 21:24:33,794 [INFO] __main__: ICICIGI failed EPS growth: -0.019
+2025-06-21 21:24:34,069 [INFO] __main__: ICICIPRULI failed Sales growth: -0.315
+2025-06-21 21:24:34,404 [INFO] __main__: IDFCFIRSTB failed EPS growth: -0.596
+2025-06-21 21:24:34,649 [INFO] __main__: IRB failed Sales growth: -0.106
+2025-06-21 21:24:34,884 [INFO] __main__: ITC failed Sales growth: 0.047
+2025-06-21 21:24:35,633 [INFO] __main__: INDIANB failed Debt/Equity: 1
+2025-06-21 21:24:36,270 [INFO] __main__: INDHOTEL failed Debt/Equity: 24.842
+2025-06-21 21:24:36,844 [INFO] __main__: IOC failed Sales growth: -0.017
+2025-06-21 21:24:37,458 [INFO] __main__: IRCTC failed Debt/Equity: 2.451
+2025-06-21 21:24:38,067 [INFO] __main__: IRFC failed EPS growth: -0.012
+2025-06-21 21:24:38,968 [INFO] __main__: IREDA failed Debt/Equity: 647.77
+2025-06-21 21:24:39,300 [INFO] __main__: IGL failed EPS growth: 0.049
+2025-06-21 21:24:39,609 [INFO] __main__: INDUSTOWER failed EPS growth: -0.04
+2025-06-21 21:24:39,843 [INFO] __main__: INDUSINDBK failed EPS growth: 0
+2025-06-21 21:24:40,092 [INFO] __main__: NAUKRI failed ROE: 0.03828
+2025-06-21 21:24:40,323 [INFO] __main__: INFY failed EPS growth: -0.152
+2025-06-21 21:24:40,555 [INFO] __main__: INDIGO failed Debt/Equity: 713.155
+2025-06-21 21:24:40,780 [INFO] __main__: JSWENERGY failed ROE: 0.07916
+2025-06-21 21:24:41,012 [INFO] __main__: JSWSTEEL failed Sales growth: -0.031
+2025-06-21 21:24:41,258 [INFO] __main__: JINDALSTEL failed EPS growth: 0
+2025-06-21 21:24:41,492 [INFO] __main__: JIOFIN failed EPS growth: 0.018
+2025-06-21 21:24:41,725 [INFO] __main__: JUBLFOOD failed EPS growth: -0.769
+2025-06-21 21:24:41,969 [INFO] __main__: KPITTECH failed Debt/Equity: 11.842
+2025-06-21 21:24:42,263 [INFO] __main__: KALYANKJIL failed Debt/Equity: 103.243
+2025-06-21 21:24:42,897 [INFO] __main__: KOTAKBANK failed EPS growth: -0.076
+2025-06-21 21:24:43,130 [INFO] __main__: LTF failed Sales growth: -0.091
+2025-06-21 21:24:43,371 [INFO] __main__: LICHSGFIN failed Debt/Equity: 722.142
+2025-06-21 21:24:43,629 [INFO] __main__: LTIM failed EPS growth: 0.026
+2025-06-21 21:24:43,909 [INFO] __main__: LT failed Debt/Equity: 114.735
+2025-06-21 21:24:44,262 [INFO] __main__: LICI failed Sales growth: 0.024
+2025-06-21 21:24:44,496 [INFO] __main__: LUPIN failed Debt/Equity: 31.5
+2025-06-21 21:24:44,829 [INFO] __main__: MRF failed ROE: 0.10623
+2025-06-21 21:24:45,076 [INFO] __main__: LODHA failed Sales growth: 0.051
+2025-06-21 21:24:45,309 [INFO] __main__: M&MFIN failed EPS growth: -0.318
+2025-06-21 21:24:45,556 [INFO] __main__: M&M failed Debt/Equity: 144.812
+2025-06-21 21:24:45,860 [INFO] __main__: MANKIND failed EPS growth: -0.107
+2025-06-21 21:24:46,102 [INFO] __main__: MARICO failed EPS growth: 0.079
+2025-06-21 21:24:46,366 [INFO] __main__: MARUTI failed EPS growth: -0.01
+2025-06-21 21:24:46,619 [INFO] __main__: MFSL failed EPS growth: 0
+2025-06-21 21:24:46,847 [INFO] __main__: MAXHEALTH failed Debt/Equity: 32.09
+2025-06-21 21:24:47,142 [INFO] __main__: MAZDOCK failed EPS growth: -0.509
+2025-06-21 21:24:47,446 [INFO] __main__: MOTILALOFS failed EPS growth: 0
+2025-06-21 21:24:47,675 [INFO] __main__: MPHASIS failed Debt/Equity: 19.611
+2025-06-21 21:24:47,921 [INFO] __main__: MUTHOOTFIN failed Debt/Equity: 329.736
+2025-06-21 21:24:48,221 [INFO] __main__: NHPC failed ROE: 0.076620005
+2025-06-21 21:24:48,456 [INFO] __main__: NMDC failed EPS growth: 0.046
+2025-06-21 21:24:48,767 [INFO] __main__: NTPCGREEN failed ROE: 0.03829
+2025-06-21 21:24:48,993 [INFO] __main__: NTPC failed Sales growth: 0.046
+2025-06-21 21:24:49,220 [INFO] __main__: NATIONALUM failed Debt/Equity: 1.021
+2025-06-21 21:24:49,461 [INFO] __main__: NESTLEIND failed EPS growth: -0.065
+2025-06-21 21:24:49,720 [INFO] __main__: OBEROIRLTY failed EPS growth: -0.45
+2025-06-21 21:24:49,969 [INFO] __main__: ONGC failed EPS growth: -0.334
+2025-06-21 21:24:50,229 [INFO] __main__: OIL failed EPS growth: -0.388
+2025-06-21 21:24:50,473 [INFO] __main__: OLAELEC failed EPS growth: 0
+2025-06-21 21:24:50,711 [INFO] __main__: PAYTM failed EPS growth: 0
+2025-06-21 21:24:50,951 [INFO] __main__: OFSS failed Sales growth: 0.045
+2025-06-21 21:24:51,188 [INFO] __main__: POLICYBZR failed ROE: 0.05736
+2025-06-21 21:24:51,492 [INFO] __main__: PIIND failed EPS growth: -0.106
+2025-06-21 21:24:51,796 [INFO] __main__: PAGEIND failed Debt/Equity: 18.605
+2025-06-21 21:24:52,024 [INFO] __main__: PATANJALI failed Debt/Equity: 6.927
+2025-06-21 21:24:52,281 [INFO] __main__: PERSISTENT failed Debt/Equity: 4.92
+2025-06-21 21:24:52,529 [INFO] __main__: PETRONET failed Sales growth: -0.107
+2025-06-21 21:24:52,863 [INFO] __main__: PHOENIXLTD failed EPS growth: -0.177
+2025-06-21 21:24:53,110 [INFO] __main__: PIDILITIND failed Debt/Equity: 4.561
+2025-06-21 21:24:53,342 [INFO] __main__: POLYCAB failed Debt/Equity: 2.423
+2025-06-21 21:24:53,583 [INFO] __main__: PFC failed Debt/Equity: 627.888
+2025-06-21 21:24:53,923 [INFO] __main__: POWERGRID failed EPS growth: -0.006
+2025-06-21 21:24:54,198 [INFO] __main__: PREMIERENE failed Debt/Equity: 69.222
+2025-06-21 21:24:54,450 [INFO] __main__: PRESTIGE failed EPS growth: -0.821
+2025-06-21 21:24:54,679 [INFO] __main__: PNB failed Sales growth: -0.495
+2025-06-21 21:24:55,047 [INFO] __main__: RECLTD failed EPS growth: 0.057
+2025-06-21 21:24:55,347 [INFO] __main__: RVNL failed EPS growth: -0.041
+2025-06-21 21:24:55,593 [INFO] __main__: RELIANCE failed EPS growth: 0.024
+2025-06-21 21:24:56,117 [INFO] __main__: SBICARD failed EPS growth: -0.194
+2025-06-21 21:24:56,424 [INFO] __main__: SBILIFE failed EPS growth: 0.003
+2025-06-21 21:24:56,652 [INFO] __main__: SJVN failed EPS growth: 0
+2025-06-21 21:24:56,900 [INFO] __main__: SRF failed ROE: 0.10378
+2025-06-21 21:24:57,142 [INFO] __main__: MOTHERSON failed EPS growth: -0.234
+2025-06-21 21:24:57,448 [INFO] __main__: SHREECEM failed EPS growth: -0.149
+2025-06-21 21:24:57,671 [INFO] __main__: SHRIRAMFIN failed EPS growth: 0.067
+2025-06-21 21:24:57,904 [INFO] __main__: ENRIN failed EPS growth: 0
+2025-06-21 21:24:58,165 [INFO] __main__: SIEMENS failed EPS growth: -0.275
+2025-06-21 21:24:58,473 [INFO] __main__: SOLARINDS failed Debt/Equity: 21.491
+2025-06-21 21:24:58,745 [INFO] __main__: SONACOMS failed Sales growth: -0.022
+2025-06-21 21:24:59,140 [INFO] __main__: SBIN failed EPS growth: -0.083
+2025-06-21 21:24:59,416 [INFO] __main__: SAIL failed Sales growth: 0.049
+2025-06-21 21:24:59,649 [INFO] __main__: SUNPHARMA failed EPS growth: -0.19
+2025-06-21 21:24:59,886 [INFO] __main__: SUPREMEIND failed EPS growth: -0.172
+2025-06-21 21:25:00,110 [INFO] __main__: SUZLON failed Debt/Equity: 5.293
+2025-06-21 21:25:00,386 [INFO] __main__: SWIGGY failed EPS growth: 0
+2025-06-21 21:25:00,854 [INFO] __main__: TVSMOTOR failed Debt/Equity: 302.986
+2025-06-21 21:25:01,079 [INFO] __main__: TATACOMM failed Sales growth: 0.052
+2025-06-21 21:25:01,340 [INFO] __main__: TCS failed EPS growth: -0.017
+2025-06-21 21:25:01,599 [INFO] __main__: TATACONSUM failed ROE: 0.066300005
+2025-06-21 21:25:01,830 [INFO] __main__: TATAELXSI failed EPS growth: -0.124
+2025-06-21 21:25:02,146 [INFO] __main__: TATAMOTORS failed EPS growth: -0.513
+2025-06-21 21:25:02,486 [INFO] __main__: TATAPOWER failed ROE: 0.11677
+2025-06-21 21:25:02,838 [INFO] __main__: TATASTEEL failed Sales growth: -0.042
+2025-06-21 21:25:03,061 [INFO] __main__: TATATECH failed Sales growth: -0.012
+2025-06-21 21:25:03,291 [INFO] __main__: TECHM failed Sales growth: 0.04
+2025-06-21 21:25:03,558 [INFO] __main__: TITAN failed Debt/Equity: 178.742
+2025-06-21 21:25:03,801 [INFO] __main__: TORNTPHARM failed Debt/Equity: 42.182
+2025-06-21 21:25:04,066 [INFO] __main__: TORNTPOWER failed Sales growth: -0.011
+2025-06-21 21:25:04,301 [INFO] __main__: TRENT failed EPS growth: -0.548
+2025-06-21 21:25:04,534 [INFO] __main__: TIINDIA failed EPS growth: -0.757
+2025-06-21 21:25:04,775 [INFO] __main__: UPL failed ROE: 0.02325
+2025-06-21 21:25:05,013 [INFO] __main__: ULTRACEMCO failed EPS growth: 0.099
+2025-06-21 21:25:05,307 [INFO] __main__: UNIONBANK failed Sales growth: 0.067
+2025-06-21 21:25:05,618 [INFO] __main__: UNITDSPR failed Debt/Equity: 5.923
+2025-06-21 21:25:05,870 [INFO] __main__: VBL failed ROE: 0
+2025-06-21 21:25:06,913 [INFO] __main__: VEDL failed Debt/Equity: 140.037
+2025-06-21 21:25:07,137 [INFO] __main__: VMM failed ROE: 0.105129994
+2025-06-21 21:25:07,368 [INFO] __main__: IDEA failed EPS growth: 0
+2025-06-21 21:25:07,611 [INFO] __main__: VOLTAS failed Debt/Equity: 13.638
+2025-06-21 21:25:07,848 [INFO] __main__: WAAREEENER failed Debt/Equity: 12.496
+2025-06-21 21:25:08,140 [INFO] __main__: WIPRO failed Sales growth: 0.013
+2025-06-21 21:25:08,401 [INFO] __main__: YESBANK failed ROE: 0.054369997
+2025-06-21 21:25:08,640 [INFO] __main__: ZYDUSLIFE failed EPS growth: -0.01
+2025-06-21 21:25:08,642 [INFO] __main__: Saved 1 stocks marked as BUY to files/nifty200_buy.json
+2025-06-21 21:28:09,111 [INFO] __main__: ABB failed EPS growth: 0.033
+2025-06-21 21:28:09,355 [INFO] __main__: ACC failed EPS growth: -0.204
+2025-06-21 21:28:09,629 [INFO] __main__: APLAPOLLO failed Debt/Equity: 15.074
+2025-06-21 21:28:10,569 [INFO] __main__: AUBANK marked as BUY
+2025-06-21 21:28:10,797 [INFO] __main__: ADANIENSOL failed ROE: 0.05021
+2025-06-21 21:28:11,038 [INFO] __main__: ADANIENT failed Sales growth: -0.076
+2025-06-21 21:28:11,287 [INFO] __main__: ADANIGREEN failed Debt/Equity: 354.583
+2025-06-21 21:28:11,533 [INFO] __main__: ADANIPORTS failed Debt/Equity: 79.193
+2025-06-21 21:28:11,765 [INFO] __main__: ADANIPOWER failed EPS growth: -0.037
+2025-06-21 21:28:12,011 [INFO] __main__: ATGL failed EPS growth: -0.08
+2025-06-21 21:28:12,252 [INFO] __main__: ABCAPITAL failed EPS growth: -0.306
+2025-06-21 21:28:12,501 [INFO] __main__: ABFRL failed EPS growth: 0
+2025-06-21 21:28:12,758 [INFO] __main__: ABLBL failed EPS growth: 0
+2025-06-21 21:28:13,012 [INFO] __main__: ALKEM failed EPS growth: 0.042
+2025-06-21 21:28:13,254 [INFO] __main__: AMBUJACEM failed EPS growth: -0.091
+2025-06-21 21:28:13,935 [INFO] __main__: APOLLOHOSP failed Debt/Equity: 90.886
+2025-06-21 21:28:14,162 [INFO] __main__: APOLLOTYRE failed EPS growth: -0.479
+2025-06-21 21:28:14,509 [INFO] __main__: ASHOKLEY failed Debt/Equity: 315.321
+2025-06-21 21:28:14,939 [INFO] __main__: ASIANPAINT failed EPS growth: -0.449
+2025-06-21 21:28:15,165 [INFO] __main__: ASTRAL failed EPS growth: -0.013
+2025-06-21 21:28:15,468 [INFO] __main__: AUROPHARMA failed EPS growth: -0.006
+2025-06-21 21:28:15,702 [INFO] __main__: DMART failed EPS growth: -0.022
+2025-06-21 21:28:16,019 [INFO] __main__: AXISBANK failed EPS growth: -0.016
+2025-06-21 21:28:16,395 [INFO] __main__: BSE not near 52W high: Last close 2688.10009765625, 52W high 3005.39990234375
+2025-06-21 21:28:16,634 [INFO] __main__: BAJAJ-AUTO failed EPS growth: -0.104
+2025-06-21 21:28:16,877 [INFO] __main__: BAJFINANCE failed Debt/Equity: 292.998
+2025-06-21 21:28:17,184 [INFO] __main__: BAJAJFINSV failed Debt/Equity: 221.476
+2025-06-21 21:28:17,418 [INFO] __main__: BAJAJHLDNG failed EPS growth: -0.365
+2025-06-21 21:28:17,644 [INFO] __main__: BAJAJHFL failed Debt/Equity: 411.266
+2025-06-21 21:28:18,241 [INFO] __main__: BANDHANBNK not near 52W high: Last close 180.0500030517578, 52W high 218.0970458984375
+2025-06-21 21:28:18,501 [INFO] __main__: BANKBARODA failed Sales growth: 0.032
+2025-06-21 21:28:19,150 [INFO] __main__: BANKINDIA marked as BUY
+2025-06-21 21:28:19,810 [INFO] __main__: MAHABANK not near 52W high: Last close 53.869998931884766, 52W high 66.70346069335938
+2025-06-21 21:28:20,043 [INFO] __main__: BDL failed EPS growth: -0.055
+2025-06-21 21:28:20,602 [INFO] __main__: BEL marked as BUY
+2025-06-21 21:28:21,410 [INFO] __main__: BHARATFORG failed Sales growth: -0.075
+2025-06-21 21:28:21,641 [INFO] __main__: BHEL failed EPS growth: -0.502
+2025-06-21 21:28:21,875 [INFO] __main__: BPCL failed EPS growth: -0.083
+2025-06-21 21:28:22,107 [INFO] __main__: BHARTIARTL failed Debt/Equity: 139.21
+2025-06-21 21:28:22,338 [INFO] __main__: BHARTIHEXA failed Debt/Equity: 123.949
+2025-06-21 21:28:22,607 [INFO] __main__: BIOCON failed ROE: 0.05395
+2025-06-21 21:28:22,867 [INFO] __main__: BOSCHLTD failed EPS growth: -0.019
+2025-06-21 21:28:23,101 [INFO] __main__: BRITANNIA failed EPS growth: 0.04
+2025-06-21 21:28:23,348 [INFO] __main__: CGPOWER failed Debt/Equity: 1.015
+2025-06-21 21:28:23,908 [INFO] __main__: CANBK marked as BUY
+2025-06-21 21:28:24,149 [INFO] __main__: CHOLAFIN failed Debt/Equity: 740.728
+2025-06-21 21:28:24,449 [INFO] __main__: CIPLA failed Debt/Equity: 1.404
+2025-06-21 21:28:24,691 [INFO] __main__: COALINDIA failed EPS growth: -0.292
+2025-06-21 21:28:25,023 [INFO] __main__: COCHINSHIP failed Debt/Equity: 10.044
+2025-06-21 21:28:25,267 [INFO] __main__: COFORGE failed Debt/Equity: 12.851
+2025-06-21 21:28:25,524 [INFO] __main__: COLPAL failed EPS growth: -0.065
+2025-06-21 21:28:25,888 [INFO] __main__: CONCOR failed EPS growth: -0.058
+2025-06-21 21:28:26,144 [INFO] __main__: CUMMINSIND failed EPS growth: -0.017
+2025-06-21 21:28:26,380 [INFO] __main__: DLF failed Debt/Equity: 9.642
+2025-06-21 21:28:26,618 [INFO] __main__: DABUR failed EPS growth: -0.084
+2025-06-21 21:28:27,103 [INFO] __main__: DIVISLAB marked as BUY
+2025-06-21 21:28:27,337 [INFO] __main__: DIXON failed Debt/Equity: 19.34
+2025-06-21 21:28:27,639 [INFO] __main__: DRREDDY failed Debt/Equity: 13.87
+2025-06-21 21:28:27,864 [INFO] __main__: EICHERMOT failed Debt/Equity: 2.151
+2025-06-21 21:28:28,103 [INFO] __main__: ESCORTS failed Debt/Equity: 1.015
+2025-06-21 21:28:28,341 [INFO] __main__: ETERNAL failed EPS growth: -0.777
+2025-06-21 21:28:28,585 [INFO] __main__: EXIDEIND failed EPS growth: 0.012
+2025-06-21 21:28:28,912 [INFO] __main__: NYKAA failed ROE: 0.05494
+2025-06-21 21:28:29,604 [INFO] __main__: FEDERALBNK marked as BUY
+2025-06-21 21:28:29,951 [INFO] __main__: GAIL failed EPS growth: 0.009
+2025-06-21 21:28:30,181 [INFO] __main__: GMRAIRPORT failed EPS growth: 0
+2025-06-21 21:28:30,417 [INFO] __main__: GLENMARK failed EPS growth: 0
+2025-06-21 21:28:30,662 [INFO] __main__: GODREJCP failed EPS growth: 0
+2025-06-21 21:28:31,037 [INFO] __main__: GODREJPROP failed EPS growth: -0.189
+2025-06-21 21:28:31,265 [INFO] __main__: GRASIM failed ROE: 0.052270003
+2025-06-21 21:28:31,551 [INFO] __main__: HCLTECH failed EPS growth: 0.031
+2025-06-21 21:28:31,780 [INFO] __main__: HDFCAMC failed Debt/Equity: 1.766
+2025-06-21 21:28:32,074 [INFO] __main__: HDFCBANK failed Sales growth: 0.039
+2025-06-21 21:28:32,307 [INFO] __main__: HDFCLIFE failed Sales growth: -0.138
+2025-06-21 21:28:32,607 [INFO] __main__: HAVELLS failed Debt/Equity: 3.819
+2025-06-21 21:28:32,820 [INFO] __main__: HEROMOTOCO failed Sales growth: 0.037
+2025-06-21 21:28:33,040 [INFO] __main__: HINDALCO failed Debt/Equity: 53.056
+2025-06-21 21:28:33,259 [INFO] __main__: HAL failed EPS growth: -0.077
+2025-06-21 21:28:33,584 [INFO] __main__: HINDPETRO failed Sales growth: -0.044
+2025-06-21 21:28:33,807 [INFO] __main__: HINDUNILVR failed EPS growth: -0.037
+2025-06-21 21:28:34,041 [INFO] __main__: HINDZINC failed Debt/Equity: 86.568
+2025-06-21 21:28:34,315 [INFO] __main__: HUDCO failed EPS growth: 0.039
+2025-06-21 21:28:34,538 [INFO] __main__: HYUNDAI failed EPS growth: -0.037
+2025-06-21 21:28:34,923 [INFO] __main__: ICICIBANK marked as BUY
+2025-06-21 21:28:35,146 [INFO] __main__: ICICIGI failed EPS growth: -0.019
+2025-06-21 21:28:35,374 [INFO] __main__: ICICIPRULI failed Sales growth: -0.315
+2025-06-21 21:28:35,604 [INFO] __main__: IDFCFIRSTB failed EPS growth: -0.596
+2025-06-21 21:28:35,828 [INFO] __main__: IRB failed Sales growth: -0.106
+2025-06-21 21:28:36,057 [INFO] __main__: ITC failed Sales growth: 0.047
+2025-06-21 21:28:36,587 [INFO] __main__: INDIANB marked as BUY
+2025-06-21 21:28:36,949 [INFO] __main__: INDHOTEL failed Debt/Equity: 24.842
+2025-06-21 21:28:37,164 [INFO] __main__: IOC failed Sales growth: -0.017
+2025-06-21 21:28:37,405 [INFO] __main__: IRCTC failed Debt/Equity: 2.451
+2025-06-21 21:28:37,802 [INFO] __main__: IRFC failed EPS growth: -0.012
+2025-06-21 21:28:38,024 [INFO] __main__: IREDA failed Debt/Equity: 647.77
+2025-06-21 21:28:38,254 [INFO] __main__: IGL failed EPS growth: 0.049
+2025-06-21 21:28:38,499 [INFO] __main__: INDUSTOWER failed EPS growth: -0.04
+2025-06-21 21:28:38,733 [INFO] __main__: INDUSINDBK failed EPS growth: 0
+2025-06-21 21:28:38,966 [INFO] __main__: NAUKRI failed ROE: 0.03828
+2025-06-21 21:28:39,188 [INFO] __main__: INFY failed EPS growth: -0.152
+2025-06-21 21:28:39,416 [INFO] __main__: INDIGO failed Debt/Equity: 713.155
+2025-06-21 21:28:39,641 [INFO] __main__: JSWENERGY failed ROE: 0.07916
+2025-06-21 21:28:39,940 [INFO] __main__: JSWSTEEL failed Sales growth: -0.031
+2025-06-21 21:28:40,186 [INFO] __main__: JINDALSTEL failed EPS growth: 0
+2025-06-21 21:28:40,493 [INFO] __main__: JIOFIN failed EPS growth: 0.018
+2025-06-21 21:28:40,755 [INFO] __main__: JUBLFOOD failed EPS growth: -0.769
+2025-06-21 21:28:40,984 [INFO] __main__: KPITTECH failed Debt/Equity: 11.842
+2025-06-21 21:28:41,379 [INFO] __main__: KALYANKJIL failed Debt/Equity: 103.243
+2025-06-21 21:28:41,620 [INFO] __main__: KOTAKBANK failed EPS growth: -0.076
+2025-06-21 21:28:41,856 [INFO] __main__: LTF failed Sales growth: -0.091
+2025-06-21 21:28:42,089 [INFO] __main__: LICHSGFIN failed Debt/Equity: 722.142
+2025-06-21 21:28:42,478 [INFO] __main__: LTIM failed EPS growth: 0.026
+2025-06-21 21:28:42,750 [INFO] __main__: LT failed Debt/Equity: 114.735
+2025-06-21 21:28:43,053 [INFO] __main__: LICI failed Sales growth: 0.024
+2025-06-21 21:28:43,302 [INFO] __main__: LUPIN failed Debt/Equity: 31.5
+2025-06-21 21:28:43,785 [INFO] __main__: MRF failed Debt/Equity: 20.397
+2025-06-21 21:28:44,094 [INFO] __main__: LODHA failed Debt/Equity: 35.041
+2025-06-21 21:28:44,321 [INFO] __main__: M&MFIN failed EPS growth: -0.318
+2025-06-21 21:28:44,714 [INFO] __main__: M&M failed Debt/Equity: 144.812
+2025-06-21 21:28:44,944 [INFO] __main__: MANKIND failed EPS growth: -0.107
+2025-06-21 21:28:45,177 [INFO] __main__: MARICO failed Debt/Equity: 12.986
+2025-06-21 21:28:45,472 [INFO] __main__: MARUTI failed EPS growth: -0.01
+2025-06-21 21:28:45,715 [INFO] __main__: MFSL failed EPS growth: 0
+2025-06-21 21:28:45,965 [INFO] __main__: MAXHEALTH failed Debt/Equity: 32.09
+2025-06-21 21:28:46,269 [INFO] __main__: MAZDOCK failed EPS growth: -0.509
+2025-06-21 21:28:46,558 [INFO] __main__: MOTILALOFS failed EPS growth: 0
+2025-06-21 21:28:46,820 [INFO] __main__: MPHASIS failed Debt/Equity: 19.611
+2025-06-21 21:28:47,062 [INFO] __main__: MUTHOOTFIN failed Debt/Equity: 329.736
+2025-06-21 21:28:47,299 [INFO] __main__: NHPC failed ROE: 0.076620005
+2025-06-21 21:28:47,530 [INFO] __main__: NMDC failed EPS growth: 0.046
+2025-06-21 21:28:47,792 [INFO] __main__: NTPCGREEN failed ROE: 0.03829
+2025-06-21 21:28:48,031 [INFO] __main__: NTPC failed Sales growth: 0.046
+2025-06-21 21:28:48,276 [INFO] __main__: NATIONALUM failed Debt/Equity: 1.021
+2025-06-21 21:28:48,598 [INFO] __main__: NESTLEIND failed EPS growth: -0.065
+2025-06-21 21:28:48,838 [INFO] __main__: OBEROIRLTY failed EPS growth: -0.45
+2025-06-21 21:28:49,067 [INFO] __main__: ONGC failed EPS growth: -0.334
+2025-06-21 21:28:49,299 [INFO] __main__: OIL failed EPS growth: -0.388
+2025-06-21 21:28:49,542 [INFO] __main__: OLAELEC failed EPS growth: 0
+2025-06-21 21:28:49,793 [INFO] __main__: PAYTM failed EPS growth: 0
+2025-06-21 21:28:50,043 [INFO] __main__: OFSS failed Sales growth: 0.045
+2025-06-21 21:28:50,286 [INFO] __main__: POLICYBZR failed ROE: 0.05736
+2025-06-21 21:28:50,519 [INFO] __main__: PIIND failed EPS growth: -0.106
+2025-06-21 21:28:50,841 [INFO] __main__: PAGEIND failed Debt/Equity: 18.605
+2025-06-21 21:28:51,083 [INFO] __main__: PATANJALI failed Debt/Equity: 6.927
+2025-06-21 21:28:51,307 [INFO] __main__: PERSISTENT failed Debt/Equity: 4.92
+2025-06-21 21:28:51,574 [INFO] __main__: PETRONET failed Sales growth: -0.107
+2025-06-21 21:28:51,823 [INFO] __main__: PHOENIXLTD failed EPS growth: -0.177
+2025-06-21 21:28:52,291 [INFO] __main__: PIDILITIND failed Debt/Equity: 4.561
+2025-06-21 21:28:52,833 [INFO] __main__: POLYCAB failed Debt/Equity: 2.423
+2025-06-21 21:28:53,131 [INFO] __main__: PFC failed Debt/Equity: 627.888
+2025-06-21 21:28:53,396 [INFO] __main__: POWERGRID failed EPS growth: -0.006
+2025-06-21 21:28:53,648 [INFO] __main__: PREMIERENE failed Debt/Equity: 69.222
+2025-06-21 21:28:53,949 [INFO] __main__: PRESTIGE failed EPS growth: -0.821
+2025-06-21 21:28:54,229 [INFO] __main__: PNB failed Sales growth: -0.495
+2025-06-21 21:28:54,602 [INFO] __main__: RECLTD failed Debt/Equity: 666.365
+2025-06-21 21:28:54,909 [INFO] __main__: RVNL failed EPS growth: -0.041
+2025-06-21 21:28:55,239 [INFO] __main__: RELIANCE failed EPS growth: 0.024
+2025-06-21 21:28:55,566 [INFO] __main__: SBICARD failed EPS growth: -0.194
+2025-06-21 21:28:55,831 [INFO] __main__: SBILIFE failed EPS growth: 0.003
+2025-06-21 21:28:56,224 [INFO] __main__: SJVN failed EPS growth: 0
+2025-06-21 21:28:56,454 [INFO] __main__: SRF failed Debt/Equity: 37.43
+2025-06-21 21:28:56,761 [INFO] __main__: MOTHERSON failed EPS growth: -0.234
+2025-06-21 21:28:56,991 [INFO] __main__: SHREECEM failed EPS growth: -0.149
+2025-06-21 21:28:57,294 [INFO] __main__: SHRIRAMFIN failed Sales growth: -0.02
+2025-06-21 21:28:57,613 [INFO] __main__: ENRIN failed EPS growth: 0
+2025-06-21 21:28:57,919 [INFO] __main__: SIEMENS failed EPS growth: -0.275
+2025-06-21 21:28:58,170 [INFO] __main__: SOLARINDS failed Debt/Equity: 21.491
+2025-06-21 21:28:58,415 [INFO] __main__: SONACOMS failed Sales growth: -0.022
+2025-06-21 21:28:58,673 [INFO] __main__: SBIN failed EPS growth: -0.083
+2025-06-21 21:28:59,077 [INFO] __main__: SAIL failed Sales growth: 0.049
+2025-06-21 21:28:59,348 [INFO] __main__: SUNPHARMA failed EPS growth: -0.19
+2025-06-21 21:28:59,676 [INFO] __main__: SUPREMEIND failed EPS growth: -0.172
+2025-06-21 21:28:59,912 [INFO] __main__: SUZLON failed Debt/Equity: 5.293
+2025-06-21 21:29:00,301 [INFO] __main__: SWIGGY failed EPS growth: 0
+2025-06-21 21:29:00,533 [INFO] __main__: TVSMOTOR failed Debt/Equity: 302.986
+2025-06-21 21:29:00,769 [INFO] __main__: TATACOMM failed Debt/Equity: 409.13
+2025-06-21 21:29:01,061 [INFO] __main__: TCS failed EPS growth: -0.017
+2025-06-21 21:29:01,344 [INFO] __main__: TATACONSUM failed ROE: 0.066300005
+2025-06-21 21:29:01,830 [INFO] __main__: TATAELXSI failed EPS growth: -0.124
+2025-06-21 21:29:02,175 [INFO] __main__: TATAMOTORS failed EPS growth: -0.513
+2025-06-21 21:29:02,426 [INFO] __main__: TATAPOWER failed Debt/Equity: 148.176
+2025-06-21 21:29:02,667 [INFO] __main__: TATASTEEL failed Sales growth: -0.042
+2025-06-21 21:29:03,115 [INFO] __main__: TATATECH failed Sales growth: -0.012
+2025-06-21 21:29:03,396 [INFO] __main__: TECHM failed Sales growth: 0.04
+2025-06-21 21:29:03,782 [INFO] __main__: TITAN failed Debt/Equity: 178.742
+2025-06-21 21:29:04,099 [INFO] __main__: TORNTPHARM failed Debt/Equity: 42.182
+2025-06-21 21:29:04,441 [INFO] __main__: TORNTPOWER failed Sales growth: -0.011
+2025-06-21 21:29:04,748 [INFO] __main__: TRENT failed EPS growth: -0.548
+2025-06-21 21:29:05,007 [INFO] __main__: TIINDIA failed EPS growth: -0.757
+2025-06-21 21:29:05,239 [INFO] __main__: UPL failed ROE: 0.02325
+2025-06-21 21:29:05,496 [INFO] __main__: ULTRACEMCO failed ROE: 0.09003
+2025-06-21 21:29:06,030 [INFO] __main__: UNIONBANK marked as BUY
+2025-06-21 21:29:06,472 [INFO] __main__: UNITDSPR failed Debt/Equity: 5.923
+2025-06-21 21:29:06,725 [INFO] __main__: VBL failed ROE: 0
+2025-06-21 21:29:07,028 [INFO] __main__: VEDL failed Debt/Equity: 140.037
+2025-06-21 21:29:07,395 [INFO] __main__: VMM failed Debt/Equity: 27.016
+2025-06-21 21:29:07,636 [INFO] __main__: IDEA failed EPS growth: 0
+2025-06-21 21:29:07,892 [INFO] __main__: VOLTAS failed Debt/Equity: 13.638
+2025-06-21 21:29:08,296 [INFO] __main__: WAAREEENER failed Debt/Equity: 12.496
+2025-06-21 21:29:08,532 [INFO] __main__: WIPRO failed Sales growth: 0.013
+2025-06-21 21:29:08,771 [INFO] __main__: YESBANK failed ROE: 0.054369997
+2025-06-21 21:29:09,009 [INFO] __main__: ZYDUSLIFE failed EPS growth: -0.01
+2025-06-21 21:29:09,012 [INFO] __main__: Saved 9 stocks marked as BUY to files/nifty200_buy.json
+2025-06-21 22:00:04,809 [INFO] __main__: ABB failed EPS growth: 0.033
+2025-06-21 22:00:05,113 [INFO] __main__: ACC failed EPS growth: -0.204
+2025-06-21 22:00:05,369 [INFO] __main__: APLAPOLLO failed Debt/Equity: 15.074
+2025-06-21 22:00:06,702 [INFO] __main__: AUBANK news sentiment: Neutral
+2025-06-21 22:00:06,702 [INFO] __main__: AUBANK marked as BUY
+2025-06-21 22:00:07,069 [INFO] __main__: ADANIENSOL failed ROE: 0.05021
+2025-06-21 22:00:07,326 [INFO] __main__: ADANIENT failed Sales growth: -0.076
+2025-06-21 22:00:07,578 [INFO] __main__: ADANIGREEN failed Debt/Equity: 354.583
+2025-06-21 22:00:07,838 [INFO] __main__: ADANIPORTS failed Debt/Equity: 79.193
+2025-06-21 22:00:08,205 [INFO] __main__: ADANIPOWER failed EPS growth: -0.037
+2025-06-21 22:00:08,483 [INFO] __main__: ATGL failed EPS growth: -0.08
+2025-06-21 22:00:08,816 [INFO] __main__: ABCAPITAL failed EPS growth: -0.306
+2025-06-21 22:00:09,146 [INFO] __main__: ABFRL failed EPS growth: 0
+2025-06-21 22:00:09,401 [INFO] __main__: ABLBL failed EPS growth: 0
+2025-06-21 22:00:09,783 [INFO] __main__: ALKEM failed EPS growth: 0.042
+2025-06-21 22:00:10,156 [INFO] __main__: AMBUJACEM failed EPS growth: -0.091
+2025-06-21 22:00:10,485 [INFO] __main__: APOLLOHOSP failed Debt/Equity: 90.886
+2025-06-21 22:00:10,741 [INFO] __main__: APOLLOTYRE failed EPS growth: -0.479
+2025-06-21 22:00:11,001 [INFO] __main__: ASHOKLEY failed Debt/Equity: 315.321
+2025-06-21 22:00:11,253 [INFO] __main__: ASIANPAINT failed EPS growth: -0.449
+2025-06-21 22:00:11,628 [INFO] __main__: ASTRAL failed EPS growth: -0.013
+2025-06-21 22:00:11,891 [INFO] __main__: AUROPHARMA failed EPS growth: -0.006
+2025-06-21 22:00:12,218 [INFO] __main__: DMART failed EPS growth: -0.022
+2025-06-21 22:00:12,470 [INFO] __main__: AXISBANK failed EPS growth: -0.016
+2025-06-21 22:00:12,873 [INFO] __main__: BSE not near 52W high: Last close 2688.10009765625, 52W high 3005.39990234375
+2025-06-21 22:00:13,137 [INFO] __main__: BAJAJ-AUTO failed EPS growth: -0.104
+2025-06-21 22:00:13,395 [INFO] __main__: BAJFINANCE failed Debt/Equity: 292.998
+2025-06-21 22:00:13,769 [INFO] __main__: BAJAJFINSV failed Debt/Equity: 221.476
+2025-06-21 22:00:14,027 [INFO] __main__: BAJAJHLDNG failed EPS growth: -0.365
+2025-06-21 22:00:14,303 [INFO] __main__: BAJAJHFL failed Debt/Equity: 411.266
+2025-06-21 22:00:14,687 [INFO] __main__: BANDHANBNK not near 52W high: Last close 180.0500030517578, 52W high 218.0970458984375
+2025-06-21 22:00:14,934 [INFO] __main__: BANKBARODA failed Sales growth: 0.032
+2025-06-21 22:00:15,489 [INFO] __main__: BANKINDIA news sentiment: Neutral
+2025-06-21 22:00:15,489 [INFO] __main__: BANKINDIA marked as BUY
+2025-06-21 22:00:15,909 [INFO] __main__: MAHABANK not near 52W high: Last close 53.869998931884766, 52W high 66.70346069335938
+2025-06-21 22:00:16,188 [INFO] __main__: BDL failed EPS growth: -0.055
+2025-06-21 22:00:17,198 [INFO] __main__: BEL news sentiment: Neutral
+2025-06-21 22:00:17,198 [INFO] __main__: BEL marked as BUY
+2025-06-21 22:00:17,455 [INFO] __main__: BHARATFORG failed Sales growth: -0.075
+2025-06-21 22:00:17,701 [INFO] __main__: BHEL failed EPS growth: -0.502
+2025-06-21 22:00:18,093 [INFO] __main__: BPCL failed EPS growth: -0.083
+2025-06-21 22:00:18,377 [INFO] __main__: BHARTIARTL failed Debt/Equity: 139.21
+2025-06-21 22:00:18,635 [INFO] __main__: BHARTIHEXA failed Debt/Equity: 123.949
+2025-06-21 22:00:18,886 [INFO] __main__: BIOCON failed ROE: 0.05395
+2025-06-21 22:00:19,142 [INFO] __main__: BOSCHLTD failed EPS growth: -0.019
+2025-06-21 22:00:19,410 [INFO] __main__: BRITANNIA failed EPS growth: 0.04
+2025-06-21 22:00:19,666 [INFO] __main__: CGPOWER failed Debt/Equity: 1.015
+2025-06-21 22:00:20,308 [INFO] __main__: CANBK news sentiment: Neutral
+2025-06-21 22:00:20,308 [INFO] __main__: CANBK marked as BUY
+2025-06-21 22:00:20,627 [INFO] __main__: CHOLAFIN failed Debt/Equity: 740.728
+2025-06-21 22:00:20,981 [INFO] __main__: CIPLA failed Debt/Equity: 1.404
+2025-06-21 22:00:21,304 [INFO] __main__: COALINDIA failed EPS growth: -0.292
+2025-06-21 22:00:21,573 [INFO] __main__: COCHINSHIP failed Debt/Equity: 10.044
+2025-06-21 22:00:22,003 [INFO] __main__: COFORGE failed Debt/Equity: 12.851
+2025-06-21 22:00:22,266 [INFO] __main__: COLPAL failed EPS growth: -0.065
+2025-06-21 22:00:22,542 [INFO] __main__: CONCOR failed EPS growth: -0.058
+2025-06-21 22:00:22,793 [INFO] __main__: CUMMINSIND failed EPS growth: -0.017
+2025-06-21 22:00:23,088 [INFO] __main__: DLF failed Debt/Equity: 9.642
+2025-06-21 22:00:23,356 [INFO] __main__: DABUR failed EPS growth: -0.084
+2025-06-21 22:00:24,050 [INFO] __main__: DIVISLAB news sentiment: Neutral
+2025-06-21 22:00:24,050 [INFO] __main__: DIVISLAB marked as BUY
+2025-06-21 22:00:24,313 [INFO] __main__: DIXON failed Debt/Equity: 19.34
+2025-06-21 22:00:24,577 [INFO] __main__: DRREDDY failed Debt/Equity: 13.87
+2025-06-21 22:00:24,827 [INFO] __main__: EICHERMOT failed Debt/Equity: 2.151
+2025-06-21 22:00:25,100 [INFO] __main__: ESCORTS failed Debt/Equity: 1.015
+2025-06-21 22:00:25,356 [INFO] __main__: ETERNAL failed EPS growth: -0.777
+2025-06-21 22:00:25,646 [INFO] __main__: EXIDEIND failed EPS growth: 0.012
+2025-06-21 22:00:25,892 [INFO] __main__: NYKAA failed ROE: 0.05494
+2025-06-21 22:00:26,455 [INFO] __main__: FEDERALBNK news sentiment: Neutral
+2025-06-21 22:00:26,533 [INFO] __main__: FEDERALBNK marked as BUY
+2025-06-21 22:00:26,791 [INFO] __main__: GAIL failed EPS growth: 0.009
+2025-06-21 22:00:27,041 [INFO] __main__: GMRAIRPORT failed EPS growth: 0
+2025-06-21 22:00:27,297 [INFO] __main__: GLENMARK failed EPS growth: 0
+2025-06-21 22:00:27,565 [INFO] __main__: GODREJCP failed EPS growth: 0
+2025-06-21 22:00:27,816 [INFO] __main__: GODREJPROP failed EPS growth: -0.189
+2025-06-21 22:00:28,147 [INFO] __main__: GRASIM failed ROE: 0.052270003
+2025-06-21 22:00:28,547 [INFO] __main__: HCLTECH failed EPS growth: 0.031
+2025-06-21 22:00:28,807 [INFO] __main__: HDFCAMC failed Debt/Equity: 1.766
+2025-06-21 22:00:29,118 [INFO] __main__: HDFCBANK failed Sales growth: 0.039
+2025-06-21 22:00:29,497 [INFO] __main__: HDFCLIFE failed Sales growth: -0.138
+2025-06-21 22:00:29,882 [INFO] __main__: HAVELLS failed Debt/Equity: 3.819
+2025-06-21 22:00:30,129 [INFO] __main__: HEROMOTOCO failed Sales growth: 0.037
+2025-06-21 22:00:30,498 [INFO] __main__: HINDALCO failed Debt/Equity: 53.056
+2025-06-21 22:00:30,859 [INFO] __main__: HAL failed EPS growth: -0.077
+2025-06-21 22:00:31,109 [INFO] __main__: HINDPETRO failed Sales growth: -0.044
+2025-06-21 22:00:31,370 [INFO] __main__: HINDUNILVR failed EPS growth: -0.037
+2025-06-21 22:00:31,645 [INFO] __main__: HINDZINC failed Debt/Equity: 86.568
+2025-06-21 22:00:31,906 [INFO] __main__: HUDCO failed EPS growth: 0.039
+2025-06-21 22:00:32,177 [INFO] __main__: HYUNDAI failed EPS growth: -0.037
+2025-06-21 22:00:33,030 [INFO] __main__: ICICIBANK news sentiment: Neutral
+2025-06-21 22:00:33,030 [INFO] __main__: ICICIBANK marked as BUY
+2025-06-21 22:00:33,295 [INFO] __main__: ICICIGI skipped: sector cap reached for Financial Services
+2025-06-21 22:00:33,773 [INFO] __main__: ICICIPRULI skipped: sector cap reached for Financial Services
+2025-06-21 22:00:34,088 [INFO] __main__: IDFCFIRSTB skipped: sector cap reached for Financial Services
+2025-06-21 22:00:34,350 [INFO] __main__: IRB failed Sales growth: -0.106
+2025-06-21 22:00:34,594 [INFO] __main__: ITC failed Sales growth: 0.047
+2025-06-21 22:00:34,860 [INFO] __main__: INDIANB skipped: sector cap reached for Financial Services
+2025-06-21 22:00:35,172 [INFO] __main__: INDHOTEL failed Debt/Equity: 24.842
+2025-06-21 22:00:35,699 [INFO] __main__: IOC failed Sales growth: -0.017
+2025-06-21 22:00:35,947 [INFO] __main__: IRCTC failed Debt/Equity: 2.451
+2025-06-21 22:00:36,196 [INFO] __main__: IRFC skipped: sector cap reached for Financial Services
+2025-06-21 22:00:36,526 [INFO] __main__: IREDA skipped: sector cap reached for Financial Services
+2025-06-21 22:00:36,791 [INFO] __main__: IGL failed EPS growth: 0.049
+2025-06-21 22:00:37,176 [INFO] __main__: INDUSTOWER failed EPS growth: -0.04
+2025-06-21 22:00:37,426 [INFO] __main__: INDUSINDBK skipped: sector cap reached for Financial Services
+2025-06-21 22:00:37,674 [INFO] __main__: NAUKRI failed ROE: 0.03828
+2025-06-21 22:00:37,935 [INFO] __main__: INFY failed EPS growth: -0.152
+2025-06-21 22:00:38,186 [INFO] __main__: INDIGO failed Debt/Equity: 713.155
+2025-06-21 22:00:38,480 [INFO] __main__: JSWENERGY failed ROE: 0.07916
+2025-06-21 22:00:38,742 [INFO] __main__: JSWSTEEL failed Sales growth: -0.031
+2025-06-21 22:00:38,986 [INFO] __main__: JINDALSTEL failed EPS growth: 0
+2025-06-21 22:00:39,258 [INFO] __main__: JIOFIN skipped: sector cap reached for Financial Services
+2025-06-21 22:00:39,680 [INFO] __main__: JUBLFOOD failed EPS growth: -0.769
+2025-06-21 22:00:39,938 [INFO] __main__: KPITTECH failed Debt/Equity: 11.842
+2025-06-21 22:00:40,323 [INFO] __main__: KALYANKJIL failed Debt/Equity: 103.243
+2025-06-21 22:00:40,625 [INFO] __main__: KOTAKBANK skipped: sector cap reached for Financial Services
+2025-06-21 22:00:40,928 [INFO] __main__: LTF skipped: sector cap reached for Financial Services
+2025-06-21 22:00:41,223 [INFO] __main__: LICHSGFIN skipped: sector cap reached for Financial Services
+2025-06-21 22:00:41,541 [INFO] __main__: LTIM failed EPS growth: 0.026
+2025-06-21 22:00:41,806 [INFO] __main__: LT failed Debt/Equity: 114.735
+2025-06-21 22:00:42,049 [INFO] __main__: LICI skipped: sector cap reached for Financial Services
+2025-06-21 22:00:42,318 [INFO] __main__: LUPIN failed Debt/Equity: 31.5
+2025-06-21 22:00:42,579 [INFO] __main__: MRF failed Debt/Equity: 20.397
+2025-06-21 22:00:42,838 [INFO] __main__: LODHA failed Debt/Equity: 35.041
+2025-06-21 22:00:43,088 [INFO] __main__: M&MFIN skipped: sector cap reached for Financial Services
+2025-06-21 22:00:43,344 [INFO] __main__: M&M failed Debt/Equity: 144.812
+2025-06-21 22:00:43,694 [INFO] __main__: MANKIND failed EPS growth: -0.107
+2025-06-21 22:00:43,952 [INFO] __main__: MARICO failed Debt/Equity: 12.986
+2025-06-21 22:00:44,201 [INFO] __main__: MARUTI failed EPS growth: -0.01
+2025-06-21 22:00:44,453 [INFO] __main__: MFSL skipped: sector cap reached for Financial Services
+2025-06-21 22:00:44,703 [INFO] __main__: MAXHEALTH failed Debt/Equity: 32.09
+2025-06-21 22:00:44,965 [INFO] __main__: MAZDOCK failed EPS growth: -0.509
+2025-06-21 22:00:45,230 [INFO] __main__: MOTILALOFS skipped: sector cap reached for Financial Services
+2025-06-21 22:00:45,501 [INFO] __main__: MPHASIS failed Debt/Equity: 19.611
+2025-06-21 22:00:45,756 [INFO] __main__: MUTHOOTFIN skipped: sector cap reached for Financial Services
+2025-06-21 22:00:46,137 [INFO] __main__: NHPC failed ROE: 0.076620005
+2025-06-21 22:00:46,403 [INFO] __main__: NMDC failed EPS growth: 0.046
+2025-06-21 22:00:46,650 [INFO] __main__: NTPCGREEN failed ROE: 0.03829
+2025-06-21 22:00:46,936 [INFO] __main__: NTPC failed Sales growth: 0.046
+2025-06-21 22:00:47,197 [INFO] __main__: NATIONALUM failed Debt/Equity: 1.021
+2025-06-21 22:00:47,491 [INFO] __main__: NESTLEIND failed EPS growth: -0.065
+2025-06-21 22:00:47,741 [INFO] __main__: OBEROIRLTY failed EPS growth: -0.45
+2025-06-21 22:00:47,988 [INFO] __main__: ONGC failed EPS growth: -0.334
+2025-06-21 22:00:48,310 [INFO] __main__: OIL failed EPS growth: -0.388
+2025-06-21 22:00:48,565 [INFO] __main__: OLAELEC failed EPS growth: 0
+2025-06-21 22:00:48,827 [INFO] __main__: PAYTM failed EPS growth: 0
+2025-06-21 22:00:49,113 [INFO] __main__: OFSS failed Sales growth: 0.045
+2025-06-21 22:00:49,411 [INFO] __main__: POLICYBZR skipped: sector cap reached for Financial Services
+2025-06-21 22:00:49,660 [INFO] __main__: PIIND failed EPS growth: -0.106
+2025-06-21 22:00:49,914 [INFO] __main__: PAGEIND failed Debt/Equity: 18.605
+2025-06-21 22:00:50,178 [INFO] __main__: PATANJALI failed Debt/Equity: 6.927
+2025-06-21 22:00:50,437 [INFO] __main__: PERSISTENT failed Debt/Equity: 4.92
+2025-06-21 22:00:50,698 [INFO] __main__: PETRONET failed Sales growth: -0.107
+2025-06-21 22:00:50,944 [INFO] __main__: PHOENIXLTD failed EPS growth: -0.177
+2025-06-21 22:00:51,204 [INFO] __main__: PIDILITIND failed Debt/Equity: 4.561
+2025-06-21 22:00:51,470 [INFO] __main__: POLYCAB failed Debt/Equity: 2.423
+2025-06-21 22:00:51,740 [INFO] __main__: PFC skipped: sector cap reached for Financial Services
+2025-06-21 22:00:51,988 [INFO] __main__: POWERGRID failed EPS growth: -0.006
+2025-06-21 22:00:52,257 [INFO] __main__: PREMIERENE failed Debt/Equity: 69.222
+2025-06-21 22:00:52,512 [INFO] __main__: PRESTIGE failed EPS growth: -0.821
+2025-06-21 22:00:52,764 [INFO] __main__: PNB skipped: sector cap reached for Financial Services
+2025-06-21 22:00:53,082 [INFO] __main__: RECLTD skipped: sector cap reached for Financial Services
+2025-06-21 22:00:53,337 [INFO] __main__: RVNL failed EPS growth: -0.041
+2025-06-21 22:00:53,693 [INFO] __main__: RELIANCE failed EPS growth: 0.024
+2025-06-21 22:00:53,943 [INFO] __main__: SBICARD skipped: sector cap reached for Financial Services
+2025-06-21 22:00:54,306 [INFO] __main__: SBILIFE skipped: sector cap reached for Financial Services
+2025-06-21 22:00:54,569 [INFO] __main__: SJVN failed EPS growth: 0
+2025-06-21 22:00:54,831 [INFO] __main__: SRF failed Debt/Equity: 37.43
+2025-06-21 22:00:55,077 [INFO] __main__: MOTHERSON failed EPS growth: -0.234
+2025-06-21 22:00:55,357 [INFO] __main__: SHREECEM failed EPS growth: -0.149
+2025-06-21 22:00:55,671 [INFO] __main__: SHRIRAMFIN skipped: sector cap reached for Financial Services
+2025-06-21 22:00:55,935 [INFO] __main__: ENRIN failed EPS growth: 0
+2025-06-21 22:00:56,226 [INFO] __main__: SIEMENS failed EPS growth: -0.275
+2025-06-21 22:00:56,488 [INFO] __main__: SOLARINDS failed Debt/Equity: 21.491
+2025-06-21 22:00:56,863 [INFO] __main__: SONACOMS failed Sales growth: -0.022
+2025-06-21 22:00:57,189 [INFO] __main__: SBIN skipped: sector cap reached for Financial Services
+2025-06-21 22:00:57,473 [INFO] __main__: SAIL failed Sales growth: 0.049
+2025-06-21 22:00:57,731 [INFO] __main__: SUNPHARMA failed EPS growth: -0.19
+2025-06-21 22:00:57,983 [INFO] __main__: SUPREMEIND failed EPS growth: -0.172
+2025-06-21 22:00:58,230 [INFO] __main__: SUZLON failed Debt/Equity: 5.293
+2025-06-21 22:00:58,478 [INFO] __main__: SWIGGY failed EPS growth: 0
+2025-06-21 22:00:58,846 [INFO] __main__: TVSMOTOR failed Debt/Equity: 302.986
+2025-06-21 22:00:59,094 [INFO] __main__: TATACOMM failed Debt/Equity: 409.13
+2025-06-21 22:00:59,712 [INFO] __main__: TCS failed EPS growth: -0.017
+2025-06-21 22:00:59,975 [INFO] __main__: TATACONSUM failed ROE: 0.066300005
+2025-06-21 22:01:00,233 [INFO] __main__: TATAELXSI failed EPS growth: -0.124
+2025-06-21 22:01:00,517 [INFO] __main__: TATAMOTORS failed EPS growth: -0.513
+2025-06-21 22:01:00,767 [INFO] __main__: TATAPOWER failed Debt/Equity: 148.176
+2025-06-21 22:01:01,074 [INFO] __main__: TATASTEEL failed Sales growth: -0.042
+2025-06-21 22:01:01,396 [INFO] __main__: TATATECH failed Sales growth: -0.012
+2025-06-21 22:01:01,660 [INFO] __main__: TECHM failed Sales growth: 0.04
+2025-06-21 22:01:01,906 [INFO] __main__: TITAN failed Debt/Equity: 178.742
+2025-06-21 22:01:02,260 [INFO] __main__: TORNTPHARM failed Debt/Equity: 42.182
+2025-06-21 22:01:02,519 [INFO] __main__: TORNTPOWER failed Sales growth: -0.011
+2025-06-21 22:01:02,762 [INFO] __main__: TRENT failed EPS growth: -0.548
+2025-06-21 22:01:03,013 [INFO] __main__: TIINDIA failed EPS growth: -0.757
+2025-06-21 22:01:03,271 [INFO] __main__: UPL failed ROE: 0.02325
+2025-06-21 22:01:03,529 [INFO] __main__: ULTRACEMCO failed ROE: 0.09003
+2025-06-21 22:01:03,887 [INFO] __main__: UNIONBANK skipped: sector cap reached for Financial Services
+2025-06-21 22:01:04,213 [INFO] __main__: UNITDSPR failed Debt/Equity: 5.923
+2025-06-21 22:01:04,484 [INFO] __main__: VBL failed ROE: 0
+2025-06-21 22:01:04,735 [INFO] __main__: VEDL failed Debt/Equity: 140.037
+2025-06-21 22:01:05,104 [INFO] __main__: VMM failed Debt/Equity: 27.016
+2025-06-21 22:01:05,357 [INFO] __main__: IDEA failed EPS growth: 0
+2025-06-21 22:01:05,700 [INFO] __main__: VOLTAS failed Debt/Equity: 13.638
+2025-06-21 22:01:05,946 [INFO] __main__: WAAREEENER failed Debt/Equity: 12.496
+2025-06-21 22:01:06,200 [INFO] __main__: WIPRO failed Sales growth: 0.013
+2025-06-21 22:01:06,467 [INFO] __main__: YESBANK skipped: sector cap reached for Financial Services
+2025-06-21 22:01:06,719 [INFO] __main__: ZYDUSLIFE failed EPS growth: -0.01
+2025-06-21 22:01:06,723 [INFO] __main__: Saved 7 stocks marked as BUY to files/nifty200_buy.json

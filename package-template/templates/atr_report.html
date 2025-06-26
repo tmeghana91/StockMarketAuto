@@ -1,0 +1,118 @@
+<div class="container">
+    <h2>ATR Trailing Stop Report</h2>
+    <table id="report-table">
+        <thead>
+            <tr>
+                <th></th> <!-- For the + button -->
+                <th>Symbol</th>
+                <th>Qty</th>
+                <th>Purchase Price</th>
+                <th>Last Close</th>
+                <th>P&L (%)</th>
+                <th>Highest Price</th>
+                <th>ATR (14)</th>
+                <th>Trailing Stop</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Data will be populated by JavaScript -->
+        </tbody>
+    </table>
+    <div style="text-align: right;">
+        <button id="view-all-holdings-btn" style="margin-top: 16px; display: none;">View All Holdings</button>
+    </div>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        let allHoldingsData = [];
+        const viewAllButton = document.getElementById('view-all-holdings-btn');
+        let isShowingAll = false; // State flag to toggle views
+
+        // Function to render the table with specified holdings
+        function renderTable(holdingsToDisplay) {
+            const tableBody = document.querySelector('#report-table tbody');
+            tableBody.innerHTML = ''; // Clear existing rows
+
+            if (!holdingsToDisplay || holdingsToDisplay.length === 0) {
+                const row = tableBody.insertRow();
+                const cell = row.insertCell();
+                cell.colSpan = 9;
+                cell.textContent = isShowingAll ? 'No holdings data found.' : 'No holdings marked for SELL.';
+                cell.style.textAlign = 'center';
+                return;
+            }
+            
+            holdingsToDisplay.forEach(holding => {
+                const row = tableBody.insertRow();
+                
+                const purchasePrice = holding.purchase_price || 0;
+                const lastClose = holding.last_close || purchasePrice;
+                const pl = purchasePrice > 0 ? ((lastClose - purchasePrice) / purchasePrice) * 100 : 0;
+
+                row.insertCell().textContent = holding.bseTradingSymbol || holding.nseTradingSymbol || 'N/A';
+                row.insertCell().textContent = holding.totalQuantity || 0;
+                row.insertCell().textContent = purchasePrice.toFixed(2);
+                row.insertCell().textContent = lastClose.toFixed(2);
+                
+                const plCell = row.insertCell();
+                plCell.textContent = `${pl.toFixed(2)}%`;
+                plCell.className = pl >= 0 ? 'pl-pos' : 'pl-neg';
+
+                row.insertCell().textContent = (holding.highest_price_reached || 0).toFixed(2);
+                row.insertCell().textContent = (holding.atr_value || 0).toFixed(2);
+                row.insertCell().textContent = (holding.trailing_stop_loss || 0).toFixed(2);
+
+                const actionCell = row.insertCell();
+                actionCell.textContent = holding.action || 'N/A';
+                actionCell.classList.add(holding.action); // Adds 'SELL' or 'HOLD' class
+            });
+        }
+
+        fetch("{{ url_for('report') }}")
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                return response.json();
+            })
+            .then(data => {
+                allHoldingsData = data;
+
+                // Filter for SELL actions
+                const sellHoldings = allHoldingsData.filter(holding => holding.action === 'SELL');
+                renderTable(sellHoldings); // Initial render shows only SELL
+
+                // Show "View All Holdings" button if there are non-SELL holdings
+                if (allHoldingsData.length > sellHoldings.length) {
+                    viewAllButton.style.display = 'block';
+                    viewAllButton.textContent = 'View All Holdings';
+                }
+
+                // Add event listener to the button
+                viewAllButton.addEventListener('click', () => {
+                    isShowingAll = !isShowingAll; // Toggle the state
+
+                    if (isShowingAll) {
+                        // Sort all holdings to show SELL first, then render
+                        const sortedAllHoldings = [...allHoldingsData].sort((a, b) => {
+                            if (a.action === 'SELL' && b.action !== 'SELL') return -1;
+                            if (a.action !== 'SELL' && b.action === 'SELL') return 1;
+                            return 0;
+                        });
+                        renderTable(sortedAllHoldings);
+                        viewAllButton.textContent = 'Hide Strong Holdings';
+                    } else {
+                        // Filter to show only SELL holdings
+                        const sellHoldingsOnly = allHoldingsData.filter(holding => holding.action === 'SELL');
+                        renderTable(sellHoldingsOnly);
+                        viewAllButton.textContent = 'View All Holdings';
+                    }
+                });
+            })
+            .catch(error => {
+                console.error('Error fetching report data:', error);
+            });
+    });
+</script>

@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Nifty 200 Buy Recommendations</title>
+    <link href="https://fonts.googleapis.com/css?family=Inter:400,600,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=JetBrains+Mono:400,700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', Arial, sans-serif;
+            margin: 32px;
+            background: #f9f9fb;
+            color: #222;
+            font-size: 15px;
+        }
+        h2 {
+            font-weight: 700;
+            letter-spacing: 0.5px;
+            margin-bottom: 20px;
+            font-size: 1.35em;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            background: #fff;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+        }
+        th, td {
+            border: 1px solid #e0e0e0;
+            padding: 7px 10px;
+            text-align: center;
+            font-size: 0.98em;
+        }
+        th {
+            background: #f4f6fa;
+            font-weight: 600;
+            letter-spacing: 0.2px;
+        }
+        tr:nth-child(even) {
+            background: #f7fafd;
+        }
+        .BUY {
+            background: #eaffea;
+            color: #006600;
+            font-weight: bold;
+        }
+        .mono {
+            font-family: 'JetBrains Mono', 'Consolas', monospace;
+            font-size: 0.97em;
+            letter-spacing: 0.2px;
+        }
+        .pl-pos { color: #006600; font-weight: bold; }
+        .pl-neg { color: #b30000; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h2>Nifty 200 Buy Recommendations</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Symbol</th>
+                <th>Sector</th>
+                <th>Last Close</th>
+                <th>52W High</th>
+                <th>% from High</th>
+                <th>News Sentiment</th>
+                <th>Change 1w</th>
+                <th>Change 14d</th>
+                <th>Change 1m</th>
+                <th>Change 3m</th>
+                <th>Change 6m</th>
+                <th>Change 1y</th>
+                <th>Change 2y</th>
+                <th>Change 3y</th>
+                <th>BUY</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- DATA_ROWS -->
+        </tbody>
+    </table>
+    <script>
+    fetch('../recommendations/nifty200_buy.json')
+      .then(response => response.json())
+      .then(data => {
+        const tbody = document.querySelector('tbody');
+        data.forEach(row => {
+          const pct = v => v !== null && v !== undefined ? v.toFixed(2) + '%' : '';
+          const tr = document.createElement('tr');
+          tr.innerHTML = `
+            <td>${row.Symbol || ''}</td>
+            <td>${row.Sector || ''}</td>
+            <td class="mono">${row['Last Close'] != null ? row['Last Close'].toFixed(2) : ''}</td>
+            <td class="mono">${row['52W High'] != null ? row['52W High'].toFixed(2) : ''}</td>
+            <td class="mono">${row['Pct from High'] != null ? row['Pct from High'].toFixed(2) + '%' : ''}</td>
+            <td>${row['News Sentiment'] || ''}</td>
+            <td class="mono">${pct(row['Change_1w'])}</td>
+            <td class="mono">${pct(row['Change_14d'])}</td>
+            <td class="mono">${pct(row['Change_1m'])}</td>
+            <td class="mono">${pct(row['Change_3m'])}</td>
+            <td class="mono">${pct(row['Change_6m'])}</td>
+            <td class="mono">${pct(row['Change_1y'])}</td>
+            <td class="mono">${pct(row['Change_2y'])}</td>
+            <td class="mono">${pct(row['Change_3y'])}</td>
+            <td class="${row.BUY ? 'BUY' : ''}">${row.BUY ? 'BUY' : ''}</td>
+          `;
+          tbody.appendChild(tr);
+        });
+      });
+    </script>
+</body>
+</html>

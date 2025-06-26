@@ -1,0 +1,89 @@
+2025-06-22 21:50:50 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-22 21:50:50 INFO [33mPress CTRL+C to quit[0m
+2025-06-22 21:50:50 INFO  * Restarting with stat
+2025-06-22 21:50:52 WARNING  * Debugger is active!
+2025-06-22 21:50:52 INFO  * Debugger PIN: 118-205-679
+2025-06-22 21:51:02 INFO 127.0.0.1 - - [22/Jun/2025 21:51:02] "GET / HTTP/1.1" 200 -
+2025-06-22 21:51:03 INFO 127.0.0.1 - - [22/Jun/2025 21:51:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-22 21:55:53 INFO 127.0.0.1 - - [22/Jun/2025 21:55:53] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-06-22 21:55:53 INFO 127.0.0.1 - - [22/Jun/2025 21:55:53] "GET / HTTP/1.1" 200 -
+2025-06-22 21:55:55 DEBUG Request URL: https://api.iiflcapital.com/v1/getusersession
+2025-06-22 21:55:55 DEBUG Request headers: {'Content-Type': 'application/json'}
+2025-06-22 21:55:55 DEBUG Request payload: {'checkSum': '8d2705bc376a25f950340009d259aeba622ac21d11d008e353d4b20e69cb3139'}
+2025-06-22 21:55:55 DEBUG Starting new HTTPS connection (1): api.iiflcapital.com:443
+2025-06-22 21:55:55 DEBUG https://api.iiflcapital.com:443 "POST /v1/getusersession HTTP/1.1" 200 1587
+2025-06-22 21:55:55 INFO Session request status: 200
+2025-06-22 21:55:55 DEBUG Session response text: {"status":"Ok","userSession":"eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIxVks4TEhlRnRvSmp6YWk1RmJlSGNPbDI3ekpGanBScTE2Vmt4eGJBZ0ZjIn0.eyJleHAiOjE3NjYxNjE1MjEsImlhdCI6MTc1MDYwOTU1MiwianRpIjoiYTk4YTcwZGQtNDc1YS00NjFmLTgyZmQtMGE1M2YwYTUzYjYyIiwiaXNzIjoiaHR0cHM6Ly9rZXljbG9hay5paWZsc2VjdXJpdGllcy5jb20vcmVhbG1zL0lJRkwiLCJhdWQiOiJhY2NvdW50Iiwic3ViIjoiNDI4ZWRkZWItMmYwNy00NmQzLTkyMjItZWYwYzJjZTI1YjMzIiwidHlwIjoiQmVhcmVyIiwiYXpwIjoiSUlGTCIsInNpZCI6IjVmMzBkOTcyLTBiMjktNDNmMy04NzM4LWI3ODNlYzZhM2QwNyIsImFjciI6IjEiLCJhbGxvd2VkLW9yaWdpbnMiOlsiaHR0cDovLzEwLjEyNS42OC4xNDQ6ODA4MC8iXSwicmVhbG1fYWNjZXNzIjp7InJvbGVzIjpbImRlZmF1bHQtcm9sZXMtaWlmbCIsIm9mZmxpbmVfYWNjZXNzIiwidW1hX2F1dGhvcml6YXRpb24iXX0sInJlc291cmNlX2FjY2VzcyI6eyJJSUZMIjp7InJvbGVzIjpbIkdVRVNUX1VTRVIiLCJBQ1RJVkVfVVNFUiJdfSwiYWNjb3VudCI6eyJyb2xlcyI6WyJtYW5hZ2UtYWNjb3VudCIsIm1hbmFnZS1hY2NvdW50LWxpbmtzIiwidmlldy1wcm9maWxlIl19fSwic2NvcGUiOiJvcGVuaWQgZW1haWwgcHJvZmlsZSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJvbXMiOiJUVCIsInVjYyI6Ik1LS0lSQU45Iiwic29sYWNlX2dyb3VwIjoiU1VCU0NSSUJFUl9DTElFTlQiLCJuYW1lIjoiS0lSQU4gS1VNQVIgTU9HQU5USSBOQSIsInByZWZlcnJlZF91c2VybmFtZSI6Im1ra2lyYW45IiwiZ2l2ZW5fbmFtZSI6IktJUkFOIEtVTUFSIE1PR0FOVEkiLCJmYW1pbHlfbmFtZSI6Ik5BIiwiZW1haWwiOiJraXJhbi5tb2dhbnRpQGdtYWlsLmNvbSJ9.tg2E-nglUNOnXP7wfGvZQesJxj2eA6N1SDoGgCPst3_s3c_oBfBbNRRxiBli3LYW8BE_xdfTdW_Mn0Ap562Qu89hY46akpnHVtKmIupo30mdQF2oah99fkQu7XeAefleeDe_T7YU4FTKH2nFvCmAhjZBERukw1tILQe9jpI_3BLrOURUrBEy5ycDtOuYRW1Lm4fPqmmz_TUulfEQntMlH1xHZTLwUpApaIrDXqE28RwG05tWcc3kJ6fvQiCORGtsC77maFHyfd0jmzZG76ljF7HZ_Qh733PFhrzQ_hSKt2_NdjOAnTw_hxi2fFrWzl6aBPwAcCC-zV5v_7EPHr_seA"}
+2025-06-22 21:55:55 INFO Auth token saved to D:\Py_code\Stock_Trading_Auto\package-template\files\auth_token.txt
+2025-06-22 21:55:55 INFO 127.0.0.1 - - [22/Jun/2025 21:55:55] "[32mPOST /get-session HTTP/1.1[0m" 302 -
+2025-06-22 21:55:55 INFO 127.0.0.1 - - [22/Jun/2025 21:55:55] "GET /?session_result=User+session+updated. HTTP/1.1" 200 -
+2025-06-22 21:56:07 INFO 127.0.0.1 - - [22/Jun/2025 21:56:07] "[32mPOST /get-holdings HTTP/1.1[0m" 302 -
+2025-06-22 21:56:07 INFO 127.0.0.1 - - [22/Jun/2025 21:56:07] "GET /?holdings_result=Portfolio+holdings+fetched+successfully. HTTP/1.1" 200 -
+2025-06-22 21:56:20 INFO 127.0.0.1 - - [22/Jun/2025 21:56:20] "[32mPOST /get-candlestick HTTP/1.1[0m" 302 -
+2025-06-22 21:56:20 INFO 127.0.0.1 - - [22/Jun/2025 21:56:20] "GET /?candle_stick_result=Candle+stick+data+fetched+successfully. HTTP/1.1" 200 -
+2025-06-22 21:56:46 INFO 127.0.0.1 - - [22/Jun/2025 21:56:46] "[32mPOST /get-indicators HTTP/1.1[0m" 302 -
+2025-06-22 21:56:46 INFO 127.0.0.1 - - [22/Jun/2025 21:56:46] "GET /?indicators_result=Indicators+calculated+successfully. HTTP/1.1" 200 -
+2025-06-22 21:57:16 INFO 127.0.0.1 - - [22/Jun/2025 21:57:16] "[33mGET /atr_report.html HTTP/1.1[0m" 404 -
+2025-06-23 10:15:59 DEBUG Loading config from D:\Py_code\Stock_Trading_Auto\package-template\util\../configs/config.json
+2025-06-23 10:15:59 DEBUG Auth file D:\Py_code\Stock_Trading_Auto\package-template\util\../files/auth_token.txt does not exist.
+2025-06-23 10:15:59 DEBUG Generated checksum: 8d2705bc376a25f950340009d259aeba622ac21d11d008e353d4b20e69cb3139
+2025-06-23 10:15:59 DEBUG Request URL: https://api.iiflcapital.com/v1/getusersession
+2025-06-23 10:15:59 DEBUG Request headers: {'Content-Type': 'application/json'}
+2025-06-23 10:15:59 DEBUG Request payload: {'checkSum': '8d2705bc376a25f950340009d259aeba622ac21d11d008e353d4b20e69cb3139'}
+2025-06-23 10:15:59 DEBUG Starting new HTTPS connection (1): api.iiflcapital.com:443
+2025-06-23 10:15:59 DEBUG https://api.iiflcapital.com:443 "POST /v1/getusersession HTTP/1.1" 200 44
+2025-06-23 10:15:59 INFO Session request status: 200
+2025-06-23 10:15:59 DEBUG Session response text: {"stat":"Not_ok","emsg":"Invalid auth code"}
+2025-06-23 10:15:59 WARNING No auth token received from session response.
+2025-06-23 10:15:59 INFO Updated User Session: None
+2025-06-23 10:15:59 INFO Calling getPortfolioHoldings.py...
+2025-06-23 10:21:01 DEBUG Loading config from D:\Py_code\Stock_Trading_Auto\package-template\util\../configs/config.json
+2025-06-23 10:21:01 DEBUG Auth file D:\Py_code\Stock_Trading_Auto\package-template\util\../files/auth_token.txt is empty.
+2025-06-23 10:21:01 DEBUG Generated checksum: 8d2705bc376a25f950340009d259aeba622ac21d11d008e353d4b20e69cb3139
+2025-06-23 10:21:01 DEBUG Request URL: https://api.iiflcapital.com/v1/getusersession
+2025-06-23 10:21:01 DEBUG Request headers: {'Content-Type': 'application/json'}
+2025-06-23 10:21:01 DEBUG Request payload: {'checkSum': '8d2705bc376a25f950340009d259aeba622ac21d11d008e353d4b20e69cb3139'}
+2025-06-23 10:21:01 DEBUG Starting new HTTPS connection (1): api.iiflcapital.com:443
+2025-06-23 10:21:02 DEBUG https://api.iiflcapital.com:443 "POST /v1/getusersession HTTP/1.1" 200 44
+2025-06-23 10:21:02 INFO Session request status: 200
+2025-06-23 10:21:02 DEBUG Session response text: {"stat":"Not_ok","emsg":"Invalid auth code"}
+2025-06-23 10:21:02 WARNING No auth token received from session response.
+2025-06-23 10:21:02 INFO Updated User Session: None
+2025-06-23 10:21:02 INFO Calling getPortfolioHoldings.py...
+2025-06-23 11:05:40 DEBUG Loading config from D:\Py_code\Stock_Trading_Auto\package-template\util\../configs/config.json
+2025-06-23 11:05:40 DEBUG Auth file D:\Py_code\Stock_Trading_Auto\package-template\util\../files/auth_token.txt is empty.
+2025-06-23 11:05:40 DEBUG Generated checksum: 8d2705bc376a25f950340009d259aeba622ac21d11d008e353d4b20e69cb3139
+2025-06-23 11:05:40 DEBUG Request URL: https://api.iiflcapital.com/v1/getusersession
+2025-06-23 11:05:40 DEBUG Request headers: {'Content-Type': 'application/json'}
+2025-06-23 11:05:40 DEBUG Request payload: {'checkSum': '8d2705bc376a25f950340009d259aeba622ac21d11d008e353d4b20e69cb3139'}
+2025-06-23 11:05:40 DEBUG Starting new HTTPS connection (1): api.iiflcapital.com:443
+2025-06-23 11:05:41 DEBUG https://api.iiflcapital.com:443 "POST /v1/getusersession HTTP/1.1" 200 44
+2025-06-23 11:05:41 INFO Session request status: 200
+2025-06-23 11:05:41 DEBUG Session response text: {"stat":"Not_ok","emsg":"Invalid auth code"}
+2025-06-23 11:05:41 WARNING No auth token received from session response.
+2025-06-23 11:05:41 INFO Updated User Session: None
+2025-06-23 16:40:06 DEBUG Loading config from D:\Py_code\Stock_Trading_Auto\package-template\util\../configs/config.json
+2025-06-23 16:40:06 DEBUG Auth file D:\Py_code\Stock_Trading_Auto\package-template\util\../files/auth_token.txt is empty.
+2025-06-23 16:40:06 DEBUG Generated checksum: ad145ceb5044e6a81ee818bda56c490c68ce6ed1c656f249ad081aa8546d0087
+2025-06-23 16:40:06 DEBUG Request URL: https://api.iiflcapital.com/v1/getusersession
+2025-06-23 16:40:06 DEBUG Request headers: {'Content-Type': 'application/json'}
+2025-06-23 16:40:06 DEBUG Request payload: {'checkSum': 'ad145ceb5044e6a81ee818bda56c490c68ce6ed1c656f249ad081aa8546d0087'}
+2025-06-23 16:40:06 DEBUG Starting new HTTPS connection (1): api.iiflcapital.com:443
+2025-06-23 16:40:06 DEBUG https://api.iiflcapital.com:443 "POST /v1/getusersession HTTP/1.1" 200 1587
+2025-06-23 16:40:06 INFO Session request status: 200
+2025-06-23 16:40:06 DEBUG Session response text: {"status":"Ok","userSession":"eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIxVks4TEhlRnRvSmp6YWk1RmJlSGNPbDI3ekpGanBScTE2Vmt4eGJBZ0ZjIn0.eyJleHAiOjE3NjYyMDA5MjUsImlhdCI6MTc1MDY3NzAwMiwianRpIjoiMzM0ZDdhOTUtYTc3ZS00ZjRmLTkxYmMtNDA2ZWU4YWIwZTY2IiwiaXNzIjoiaHR0cHM6Ly9rZXljbG9hay5paWZsc2VjdXJpdGllcy5jb20vcmVhbG1zL0lJRkwiLCJhdWQiOiJhY2NvdW50Iiwic3ViIjoiNDI4ZWRkZWItMmYwNy00NmQzLTkyMjItZWYwYzJjZTI1YjMzIiwidHlwIjoiQmVhcmVyIiwiYXpwIjoiSUlGTCIsInNpZCI6IjIzMjgzNDIwLWYxOWItNDY4Ni1iNWM3LTBlM2QwNDdiMzllMSIsImFjciI6IjEiLCJhbGxvd2VkLW9yaWdpbnMiOlsiaHR0cDovLzEwLjEyNS42OC4xNDQ6ODA4MC8iXSwicmVhbG1fYWNjZXNzIjp7InJvbGVzIjpbImRlZmF1bHQtcm9sZXMtaWlmbCIsIm9mZmxpbmVfYWNjZXNzIiwidW1hX2F1dGhvcml6YXRpb24iXX0sInJlc291cmNlX2FjY2VzcyI6eyJJSUZMIjp7InJvbGVzIjpbIkdVRVNUX1VTRVIiLCJBQ1RJVkVfVVNFUiJdfSwiYWNjb3VudCI6eyJyb2xlcyI6WyJtYW5hZ2UtYWNjb3VudCIsIm1hbmFnZS1hY2NvdW50LWxpbmtzIiwidmlldy1wcm9maWxlIl19fSwic2NvcGUiOiJvcGVuaWQgZW1haWwgcHJvZmlsZSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJvbXMiOiJUVCIsInVjYyI6Ik1LS0lSQU45Iiwic29sYWNlX2dyb3VwIjoiU1VCU0NSSUJFUl9DTElFTlQiLCJuYW1lIjoiS0lSQU4gS1VNQVIgTU9HQU5USSBOQSIsInByZWZlcnJlZF91c2VybmFtZSI6Im1ra2lyYW45IiwiZ2l2ZW5fbmFtZSI6IktJUkFOIEtVTUFSIE1PR0FOVEkiLCJmYW1pbHlfbmFtZSI6Ik5BIiwiZW1haWwiOiJraXJhbi5tb2dhbnRpQGdtYWlsLmNvbSJ9.jxVZAHAk68kBziNs86HKINsrRVv-n8BKG72KNX4YJAt0INVKeGAG_ejiEqMioLKxdtgGcilnlfLDcVw6AWWintZbKKWKnW40fBmghweq7i5uYjH7s4p3OzcpV3E3shTqHtyUkaXo-0njz8AOxUFYc20JlH5i-qsTPqxBcjRFq2Phgo507XEWrjbZURjzKhgViNu4NO940nPY78eMC8-iok8mrYfEn7u5JrMt_m7GqgP1Y4jG8u_HAb45RqOrnOYPDYxno2QaV6FBGuXgZgLlwR3YDy53dCvnleSXQ_ka91FHBpuU9WpSs8qYMkpokziFtVgLmVDowNTfSyAbeIMNSg"}
+2025-06-23 16:40:06 INFO Auth token saved to D:\Py_code\Stock_Trading_Auto\package-template\util\../files/auth_token.txt
+2025-06-23 16:40:06 INFO Updated User Session: eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIxVks4TEhlRnRvSmp6YWk1RmJlSGNPbDI3ekpGanBScTE2Vmt4eGJBZ0ZjIn0.eyJleHAiOjE3NjYyMDA5MjUsImlhdCI6MTc1MDY3NzAwMiwianRpIjoiMzM0ZDdhOTUtYTc3ZS00ZjRmLTkxYmMtNDA2ZWU4YWIwZTY2IiwiaXNzIjoiaHR0cHM6Ly9rZXljbG9hay5paWZsc2VjdXJpdGllcy5jb20vcmVhbG1zL0lJRkwiLCJhdWQiOiJhY2NvdW50Iiwic3ViIjoiNDI4ZWRkZWItMmYwNy00NmQzLTkyMjItZWYwYzJjZTI1YjMzIiwidHlwIjoiQmVhcmVyIiwiYXpwIjoiSUlGTCIsInNpZCI6IjIzMjgzNDIwLWYxOWItNDY4Ni1iNWM3LTBlM2QwNDdiMzllMSIsImFjciI6IjEiLCJhbGxvd2VkLW9yaWdpbnMiOlsiaHR0cDovLzEwLjEyNS42OC4xNDQ6ODA4MC8iXSwicmVhbG1fYWNjZXNzIjp7InJvbGVzIjpbImRlZmF1bHQtcm9sZXMtaWlmbCIsIm9mZmxpbmVfYWNjZXNzIiwidW1hX2F1dGhvcml6YXRpb24iXX0sInJlc291cmNlX2FjY2VzcyI6eyJJSUZMIjp7InJvbGVzIjpbIkdVRVNUX1VTRVIiLCJBQ1RJVkVfVVNFUiJdfSwiYWNjb3VudCI6eyJyb2xlcyI6WyJtYW5hZ2UtYWNjb3VudCIsIm1hbmFnZS1hY2NvdW50LWxpbmtzIiwidmlldy1wcm9maWxlIl19fSwic2NvcGUiOiJvcGVuaWQgZW1haWwgcHJvZmlsZSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJvbXMiOiJUVCIsInVjYyI6Ik1LS0lSQU45Iiwic29sYWNlX2dyb3VwIjoiU1VCU0NSSUJFUl9DTElFTlQiLCJuYW1lIjoiS0lSQU4gS1VNQVIgTU9HQU5USSBOQSIsInByZWZlcnJlZF91c2VybmFtZSI6Im1ra2lyYW45IiwiZ2l2ZW5fbmFtZSI6IktJUkFOIEtVTUFSIE1PR0FOVEkiLCJmYW1pbHlfbmFtZSI6Ik5BIiwiZW1haWwiOiJraXJhbi5tb2dhbnRpQGdtYWlsLmNvbSJ9.jxVZAHAk68kBziNs86HKINsrRVv-n8BKG72KNX4YJAt0INVKeGAG_ejiEqMioLKxdtgGcilnlfLDcVw6AWWintZbKKWKnW40fBmghweq7i5uYjH7s4p3OzcpV3E3shTqHtyUkaXo-0njz8AOxUFYc20JlH5i-qsTPqxBcjRFq2Phgo507XEWrjbZURjzKhgViNu4NO940nPY78eMC8-iok8mrYfEn7u5JrMt_m7GqgP1Y4jG8u_HAb45RqOrnOYPDYxno2QaV6FBGuXgZgLlwR3YDy53dCvnleSXQ_ka91FHBpuU9WpSs8qYMkpokziFtVgLmVDowNTfSyAbeIMNSg
+2025-06-24 17:43:14 DEBUG Loading config from D:\Py_code\Stock_Trading_Auto\package-template\util\../configs/config.json
+2025-06-24 17:43:14 DEBUG Auth file D:\Py_code\Stock_Trading_Auto\package-template\util\../files/auth_token.txt is empty.
+2025-06-24 17:43:14 DEBUG Generated checksum: ad145ceb5044e6a81ee818bda56c490c68ce6ed1c656f249ad081aa8546d0087
+2025-06-24 17:43:14 DEBUG Request URL: https://api.iiflcapital.com/v1/getusersession
+2025-06-24 17:43:14 DEBUG Request headers: {'Content-Type': 'application/json'}
+2025-06-24 17:43:14 DEBUG Request payload: {'checkSum': 'ad145ceb5044e6a81ee818bda56c490c68ce6ed1c656f249ad081aa8546d0087'}
+2025-06-24 17:43:14 DEBUG Starting new HTTPS connection (1): api.iiflcapital.com:443
+2025-06-24 17:43:15 DEBUG https://api.iiflcapital.com:443 "POST /v1/getusersession HTTP/1.1" 200 44
+2025-06-24 17:43:15 INFO Session request status: 200
+2025-06-24 17:43:15 DEBUG Session response text: {"stat":"Not_ok","emsg":"Invalid auth code"}
+2025-06-24 17:43:15 WARNING No auth token received from session response.
+2025-06-24 17:43:15 INFO Updated User Session: None

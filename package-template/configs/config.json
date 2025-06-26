@@ -1,0 +1,9 @@
+{
+  "IIFL_BASE_URL": "https://api.iiflcapital.com/v1",
+  "GET_USER_SESSION_ENDPOINT": "/getusersession",
+  "HOLDINGS_ENDPOINT": "/holdings",
+  "HISTORICAL_DATA_ENDPOINT": "/marketdata/historicaldata",
+  "AppSecret": "hHOq5jEHMoBdFLclNnWEgK4wFV4IzKZSbHwDQn37T0VUepQn0P3odbwKQEmkYIraoTVcLeL56JLIfMhXKxb65EKUzmb6hAlzyTfI",
+  "ClientId": "MKKIRAN9",
+  "AuthCode": "CIALBSCP0UET5ZQERVK3"
+}
